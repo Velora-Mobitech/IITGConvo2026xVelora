@@ -71,7 +71,7 @@ export function ConvocationInfo() {
         </div>
 
         {/* Photo Opportunities */}
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
@@ -97,7 +97,7 @@ export function ConvocationInfo() {
               <p className="text-gray-600">Reconnect with batchmates and seniors at various events.</p>
             </div>
           </div>
-        </motion.div>
+        </motion.div> */}
       </div>
     </section>
   )
